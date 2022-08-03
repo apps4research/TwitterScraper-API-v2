@@ -12,3 +12,5 @@ This script gets all available twitter fields
 Tina Frieda Keil, t.keil@lancaster.ac.uk, 2022
 adpated from script by AndrewEdward37 (Github), 
 see https://gist.github.com/AndrewEdward37/3fa635dc85c9027cec71e5ab0735230c
+
+In collaboration with Melanie Langer and Mark Levine, Lancaster University, UK
